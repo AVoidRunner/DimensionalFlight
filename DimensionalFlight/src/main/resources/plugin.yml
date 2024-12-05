@@ -1,0 +1,8 @@
+name: DimensionalFlight
+version: '${project.version}'
+main: me.voidrunnerv.dimensionalflight.DimensionalFlight
+api-version: 1.19
+
+#add command "/DimensionalFlight" to the command list
+commands:
+    dimensionalFlight:
